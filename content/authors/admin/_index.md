@@ -44,7 +44,7 @@ social:
 superuser: true
 title: Russell E. Lewis
 ---
-Russell Lewis is clinical pharmacist/pharmacologist and Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna. He has over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. His current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria infections.
+Russell Lewis is clinical pharmacologist and Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna. He has over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. His current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria infections.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
