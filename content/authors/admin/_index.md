@@ -1,5 +1,5 @@
 ---
-bio: I am a clinical pharmacist and an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna. I have over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria infections.
+bio: I am a clinical pharmacist and an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna. I have over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
   matter.
 education:
   courses:
@@ -17,7 +17,7 @@ highlight_name: true
 interests:
 - Antimicrobial pharmacokinetics/pharmacodynamics
 - Immunocompromised hosts
-- Prognostic models and decision(dosing) support tools
+- Prognostic models and decision (dosing) support tools
 organizations:
 - name: Alma Mater Studiorum Università di Bologna
   url: https://www.unibo.it/sitoweb/russeledward.lewis
