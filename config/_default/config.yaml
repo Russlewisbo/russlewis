@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Personal Website- Russell E. Lewis # Website name
+title: Russell E. Lewis # Website name
 baseurl: 'https:russlewisid.com' # Website URL
 copyright: '© Russell Lewis 2022' # Footer text, e.g. '© {year} Me'
 
