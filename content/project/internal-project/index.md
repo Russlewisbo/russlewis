@@ -1,19 +1,16 @@
 ---
-date: "2022-02-22T00:00:00Z"
+date: "2016-04-27T00:00:00Z"
 external_link: ""
-image:~/Proselogo.png
-  caption: Proselogo
+image: 
+  caption: 
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/Russlewisbo
 slides: example
 summary: An example of using the in-built project page.
 tags:
-- Prognostic Models
-title: PROSE Project: PROgnostic aspergillosis models from leukemia SEquecing
+- Prognostic Model
+- Invasive aspergillosis
+- Genetic risk factors
+title: PROSE Study-Prognostic aspergillosis models from leukemia sequencing
 url_code: ""
 url_pdf: ""
 url_slides: ""
