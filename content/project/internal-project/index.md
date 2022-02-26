@@ -1,8 +1,8 @@
 ---
 date: "2022-02-22T00:00:00Z"
 external_link: ""
-image:Proselogo.png
-  caption: 
+image:~/Proselogo.png
+  caption: Proselogo
   focal_point: Smart
 links:
 - icon: twitter
