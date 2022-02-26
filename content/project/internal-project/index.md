@@ -10,7 +10,7 @@ tags:
 - Prognostic Model
 - Invasive aspergillosis
 - Genetic risk factors
-title: PROSE Study-Prognostic aspergillosis models from leukemia sequencing
+title: The PROSE Study
 url_code: ""
 url_pdf: ""
 url_slides: ""
