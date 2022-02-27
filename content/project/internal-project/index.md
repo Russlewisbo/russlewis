@@ -7,7 +7,7 @@ image:
 slides: 
 summary: Incorporating genetic risk factors in a clinical risk prediction model for aspergillosis
 tags:
-- Prognostic Model
+- Prognostic Models
 - Invasive aspergillosis
 - Genetic risk factors
 title: PROgnostic aspergillosis models with leukemia SEquencing
