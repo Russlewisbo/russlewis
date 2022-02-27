@@ -70,10 +70,6 @@ address_format: en-us
 # Site features
 
 highlight: true
-highlight_languages:
-  - r
-  - python
-  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -109,7 +105,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: nature
 projects:
   post_view: 2
   publication_view: 2
