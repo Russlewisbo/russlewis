@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: 
 external_link: ""
 image: 
   caption: 
   focal_point: Smart
-slides: example
-summary: An example of using the in-built project page.
+slides: 
+summary: Incorporating genetic risk factors in a clinical risk prediction model for aspergillosis
 tags:
 - Prognostic Model
 - Invasive aspergillosis

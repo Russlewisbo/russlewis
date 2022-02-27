@@ -27,16 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Prognostic Models
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Prognostic models
+    tag: Prognostic models
   - name: PK/PD
     tag: PK/PD
+  - name: Clinical trial simulation
+    tag: Clinical trial simulation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: ''
 
   # Toggle between the various page layout types.
   #   1 = List
