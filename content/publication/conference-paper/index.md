@@ -27,10 +27,10 @@ publication_types:
 - "1"
 publishDate: 
 slides: example
-summary: State of the art review on antifunal drug interactions in patients receiving targeted chemotherapy for haematological malignancies
+summary: State of the art review on antifungal drug interactions in patients receiving targeted chemotherapy for haematological malignancies
 tags:
 - Source Themes
-title: An example conference paper
+title: Interactions of targeted chemotherapy with antifungal therapy
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
