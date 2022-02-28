@@ -17,6 +17,7 @@ interests:
 - Antimicrobial pharmacokinetics/pharmacodynamics (PK/PD)
 - Infections in immunocompromised hosts
 - Prognostic models and decision (dosing) support tools
+- Clinical trial simulation
 organizations:
 - name: Alma Mater Studiorum Università di Bologna
   url: https://www.unibo.it/sitoweb/russeledward.lewis
