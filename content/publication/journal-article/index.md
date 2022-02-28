@@ -1,52 +1,33 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Over the past 10 years, the number of targeted therapies for haematological malignancies has substantially increased, and many new drugs have entered the market. Many of these therapies have shown improved disease-free survival and reduced toxicity compared with existing treatments, especially in older patients. However, most of these new drugs undergo extensive hepatic metabolism and exhibit moderate to severe drug–drug interactions with triazole antifungal agents, which are essential for the prophylaxis and long-term treatment of invasive fungal infections. In this Review, we give a comprehensive overview of all known drug–drug interactions between new targeted drugs for haematological malignancies and antifungal drugs, in particular the triazoles. We begin with a general background on drug–drug interactions. Next, we provide a management strategy for the use of each targeted haematological drug, and discuss the possible role of therapeutic drug monitoring for both the triazole and the haematological drugs. This Review aims to provide practical guidance to clinical haematologists on managing the complex interplay between targeted therapies for haematological malignancies and triazole antifungal drugs, to pursue better outcomes for their patients.
+
 authors:
+- Roger J Brüggemann
+- Rebecca Verheggen
+- Emmy Boerrigter
 - Marta Stanzani
+- Paul E Verweij
+- Nicole M A Blijlevens
+- Russell E Lewis
 - admin
 date: "2021-09-01T00:00:00Z"
-doi: ""
+doi: "10.1016/S2352-3026(21)00232-5"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/tQUNMbf3_h0)'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ""
+publication: '*Lancet Haematology*(1)'
+publication_short: "Lancet Haematology"
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: State of the art review of antifungal drug interactions with tageted chemotherapy
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs
+
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
