@@ -10,7 +10,7 @@ tags:
 - "Prognostic models"
 - "Invasive aspergillosis"
 - "Genetic risk factors"
-title: PROgnostic aspergillosis models with leukemia SEquencing
+title: Prognostic aspergillosis models with leukemia sequencing
 url_code: ""
 url_pdf: ""
 url_slides: ""
