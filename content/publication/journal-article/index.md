@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Lancet Haematology*(1)'
+publication: '*Lancet Haematology*'
 publication_short: "Lancet Haematology"
 publication_types:
 - "2"
