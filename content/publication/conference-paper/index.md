@@ -17,8 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Antifungal Interactions with Targeted Chemotherapy
 projects:
 - internal-project
 publication: In *Lancet Haematology*
