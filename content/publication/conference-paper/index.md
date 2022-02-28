@@ -10,7 +10,7 @@ authors:
 - admin
 
 date: 
-doi: ""
+doi: "10.1016/S2352-3026(21)00232-5"
 featured: true
 image:
   caption: 
@@ -30,15 +30,7 @@ summary: State of the art review on antifungal drug interactions in patients rec
 tags:
 - Source Themes
 title: Interactions of targeted chemotherapy with antifungal therapy
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
----
+
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
