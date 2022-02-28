@@ -16,14 +16,12 @@ image:
   preview_only: false
 links:
 - name: Targeted chemotherapy
-projects:
+projects: 
 publication: In *Lancet Haematology*
 publication_short: In *Lancet Haematology*
-publishDate: 
 summary: State of the art review on antifungal drug interactions in patients receiving targeted chemotherapy for haematological malignancies
 tags:
 - Drug interactions
 - Targeted chemotherapy
-
 ---
 

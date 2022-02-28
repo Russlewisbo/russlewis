@@ -104,8 +104,8 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: 'January 2006'
-  citation_style: nature
+  date_format: '02 Jan 2006, 15:04'
+  citation_style: 
 projects:
   post_view: 2
   publication_view: 2
