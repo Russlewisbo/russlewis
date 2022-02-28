@@ -7,7 +7,7 @@ image:
 slides: 
 summary: Developing bloodculture time-to positivity as a pharmacodynamic biomarker for monitoring antibiotic therapy of Gram-negative bloodstream infections
 tags:
-- "PK/PD""
+- "PK/PD
 title: Adapting Bloodculture Systems to Monitor Antimicrobial Efficacy
 url_code: ""
 url_pdf: ""
