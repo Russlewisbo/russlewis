@@ -28,11 +28,11 @@ content:
   - name: All
     tag:  `*`
   - name: Prognostic models
-    tag: Prognostic models
+    tag: `Prognostic models`
   - name: PK/PD
-    tag: PK/PD
+    tag: `PK/PD`
   - name: Clinical trial simulation
-    tag: Clinical trial simulation
+    tag: `Clinical trial simulation`
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
