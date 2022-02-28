@@ -33,7 +33,7 @@ content:
     - name: Prognostic models
       tag: Prognostic models
     - name: Clinical trial simulation
-      tag: Clincial trial simulation
+      tag: Clinical trial simulation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
