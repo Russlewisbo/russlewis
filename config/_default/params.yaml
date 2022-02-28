@@ -104,7 +104,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: 'January 2006'
   citation_style: nature
 projects:
   post_view: 2
