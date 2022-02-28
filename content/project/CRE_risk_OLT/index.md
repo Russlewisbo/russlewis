@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 slides: 
-summary: Development of a 
+summary: Development of a prognistic model for CRE infection in patients colonized pre-and post-liver transplantation 
 risk Prediction Model for Carbapenem-resistant enterobacteriaceae infection after liver transplantation: A multinational cohort atudy
 tags:
 - Prognostic models
