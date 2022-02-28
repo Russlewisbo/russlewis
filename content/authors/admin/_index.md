@@ -15,8 +15,8 @@ education:
 email: "russeledward.lewis@unibo.it"
 highlight_name: true
 interests:
-- Antimicrobial pharmacokinetics/pharmacodynamics
-- Immunocompromised hosts
+- Antimicrobial pharmacokinetics/pharmacodynamics (PK/PD)
+- Infections in immunocompromised hosts
 - Prognostic models and decision (dosing) support tools
 organizations:
 - name: Alma Mater Studiorum Università di Bologna
