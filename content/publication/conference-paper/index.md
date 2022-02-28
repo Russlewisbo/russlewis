@@ -17,20 +17,19 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Antifungal Interactions with Targeted Chemotherapy
+- name: Targeted chemotherapy
 projects:
-- internal-project
 publication: In *Lancet Haematology*
 publication_short: In *Lancet Haematology*
 publication_types:
 - "1"
 publishDate: 
-slides: example
 summary: State of the art review on antifungal drug interactions in patients receiving targeted chemotherapy for haematological malignancies
 tags:
-- Source Themes
-title: Interactions of targeted chemotherapy with antifungal therapy
+- Drug interactions
+- Targeted chemotherapy
 
+---
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
