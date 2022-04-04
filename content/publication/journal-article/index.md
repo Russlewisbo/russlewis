@@ -17,15 +17,14 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [PK/PD]
 publication: '*Lancet Haematology*'
 publication_short: "Lancet Haematology"
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 summary: State of the art review of antifungal drug interactions with tageted chemotherapy
-tags:
-- Source Themes
+tags: [PK/PD, drug interactions]
 title: Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs
 
 ---
