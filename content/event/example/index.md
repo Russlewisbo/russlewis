@@ -4,20 +4,20 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
   eu, pulvinar tempor diam.
 address:
-  city: Stanford
-  country: United States
+  city: Lisbon
+  country: Portugal
   postcode: "94305"
   region: CA
   street: 450 Serra Mall
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2022-04-22T14:00:00Z"
+date_end: "2030-06-22T16:00:00Z"
+event: 32nd European Congress of Clinical Microbiology & Infectious Diseases
+event_url: https://www.eccmid.org/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**ESCMID**](https://www.eccmid.org/)'
   focal_point: Right
 links:
 - icon: twitter
@@ -32,12 +32,10 @@ slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
 title: Example Talk
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
----
+url_slides: "https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide"
 
+---
+[shortcodes](https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide).
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
