@@ -12,7 +12,7 @@ image:
   focal_point: Right
 location: ALTICE ARENA, Rossio dos Olivais, Lisbon, Portugal
 projects:
-publishDate: "2022-04-07T00:00:00Z"
+publishDate: "2022-04-04T00:00:00Z"
 slides: "https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide"
 summary: ESCMID 2022 talk on fungicidal activity, biofilms and deep tissue activity
 tags: [Antifungal, MICs, tissue penetration, PK/PD]
