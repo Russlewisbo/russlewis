@@ -24,11 +24,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+location: ALTICE ARENA, Rossio dos Olivais, Lote 2.13.01 A
 projects:
-- internal-project
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+publishDate: "2022-04-07T00:00:00Z"
+slides: "https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide"
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
 title: Example Talk
