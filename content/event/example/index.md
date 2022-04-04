@@ -3,7 +3,7 @@ abstract: Many factors beyond the MIC can impact the activity of antifungal agen
 all_day: false
 authors: []
 date: "2022-04-22T14:00:00Z"
-date_end: "2030-06-22T16:00:00Z"
+date_end: "2022-04-22T16:00:00Z"
 event: 32nd European Congress of Clinical Microbiology & Infectious Diseases
 event_url: https://www.eccmid.org/
 featured: false
