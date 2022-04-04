@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PK/PD | Russell E. Lewis</title>
+    <link>https:russlewisid.com/tag/pk/pd/</link>
+      <atom:link href="https:russlewisid.com/tag/pk/pd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PK/PD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Russell Lewis 2022</copyright>
+    <image>
+      <url>https:russlewisid.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>PK/PD</title>
+      <link>https:russlewisid.com/tag/pk/pd/</link>
+    </image>
+    
+    <item>
+      <title>Beyond antifungal MICs: Fungicidal activity, biofilms and tissue distribution</title>
+      <link>https:russlewisid.com/talk/beyond-antifungal-mics-fungicidal-activity-biofilms-and-tissue-distribution/</link>
+      <pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate>
+      <guid>https:russlewisid.com/talk/beyond-antifungal-mics-fungicidal-activity-biofilms-and-tissue-distribution/</guid>
+      <description>&lt;p&gt;Slides can be accessed: &lt;a href=&#34;https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs</title>
+      <link>https:russlewisid.com/publication/journal-article/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https:russlewisid.com/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting bloodculture systems to monitor antimicrobial efficacy</title>
+      <link>https:russlewisid.com/project/acute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https:russlewisid.com/project/acute/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PI: Irene Zaghi, M.D.&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;Recipient of the 2022 ESCMID Young Investigator Award&lt;/strong&gt;  &lt;br&gt;&lt;a href=&#34;https://www.escmid.org/profession_career/awards_grants/research_grants/awardees_2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESCMID research award link&lt;/a&gt; &lt;br&gt;
+&lt;br&gt; The effectiveness of antibiotic therapy in critically-ill patients with sepsis is often compromised by highly variable pharmacokinetics that can lead to subtherapeutic exposures and treatment failures, especially in the management of infections caused by multidrug resistant Gram-negative bacteria. Pharmacometric model-informed dosing and therapeutic drug monitoring (TDM) have been advanced as strategies for individualising antibiotic dosing in critically-ill patients, but the availability of these tools and expertise for implementation (especially for newer antibiotics) is often not available. The ACUTE project (Adapting Bloodculture systems to monitor antimicrobial efficacy) proposes to develop time-to positivity (Tpos) reported most continuously monitored bloodculture incubators in clinical microbiology laboratories into an a surrogate pharmacodynamic biomarker for antibacterial bactericidal activity. In this project, we propose to develop this assay as a “proof of concept” for monitoring ceftazidime-avibactam therapy of KPC-carbapenemase producing Klebsiella pneumoniae. (KPC-Kp) This will be accomplished through two specific aims and several workpackages. The first specific aim will establish the quantitative relationships between Tpos and several representative KPC-Kp strains in the absence and after exposure to a range of clinically-relevant exposures of ceftazidime-avibactam. The second specific aim will measure in 20 critically-ill patients receiving ceftazidime-avibactam treatment for KPC-KP bloodstream infections using KPC-Kp “indicator” strains or the patient’s own isolate, and correlate Tpos results with blood concentration-time courses of ceftazidime  and avibactam  and PK/PD target attainment (free drug T&amp;gt;MIC ) simulated for each patient using Bayesian-informed estimates of individual PK parameters from population pharmacokinetic models and LC/MS/MS analysis of ceftazidime-avibactam in serum. This study will form the basis for the broader development and validation of Tpos as a surrogate pharmacodynamic biomarker for antimicrobial activity in serum, that could potentially be used for screening or monitoring antimicrobial efficacy in the critically-ill patient.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

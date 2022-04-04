@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prognostic models | Russell E. Lewis</title>
+    <link>https:russlewisid.com/tag/prognostic-models/</link>
+      <atom:link href="https:russlewisid.com/tag/prognostic-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prognostic models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Russell Lewis 2022</copyright>
+    <image>
+      <url>https:russlewisid.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Prognostic models</title>
+      <link>https:russlewisid.com/tag/prognostic-models/</link>
+    </image>
+    
+    <item>
+      <title>Predicting CRE infection after liver transplantation</title>
+      <link>https:russlewisid.com/project/cre_risk_olt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https:russlewisid.com/project/cre_risk_olt/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;a href=&#34;https://idbologna.shinyapps.io/CREPostOLTPredictionModel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Online Risk Calculator&lt;/a&gt; &lt;br&gt;
+Giannella M et al. Development of a Risk Prediction Model for Carbapenem-resistant Enterobacteriaceae Infection After Liver Transplantation: A Multinational Cohort Study. Clin Infect Dis 2021; 73:e955–e966. Available at: &lt;a href=&#34;http://dx.doi.org/10.1093/cid/ciab109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://dx.doi.org/10.1093/cid/ciab109&lt;/a&gt;. &lt;br&gt;
+&lt;br&gt; A total of 840 LT recipients found to be colonized with CRE before (n = 203) or after (n = 637) LT were enrolled. CRE infection was diagnosed in 250 (29.7%) patients within 19 (interquartile range [IQR], 9–42) days after LT. Pre- and post-LT colonization, multisite post-LT colonization, prolonged mechanical ventilation, acute renal injury, and surgical reintervention were retained in the prediction model. Median 30- and 60-day predicted risk was 15% (IQR, 11–24) and 21% (IQR, 15–33), respectively. Discrimination and prediction accuracy for CRE infection was acceptable on derivation (area under the curve [AUC], 74.6; Brier index, 16.3) and bootstrapped validation dataset (AUC, 73.9; Brier index, 16.6). Decision-curve analysis suggested net benefit of model-directed intervention over default strategies (treat all, treat none) when CRE infection probability exceeded 10%.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prognostic aspergillosis risk prediction models with leukemia sequencing</title>
+      <link>https:russlewisid.com/project/internal-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https:russlewisid.com/project/internal-project/</guid>
+      <description>&lt;br&gt;
+Polymorphisms in genes encoding fungal pattern recognition receptors (PRRs) of the innate immune system are associated with increased risk of invasive aspergillosis (IA), but incorporation genetic risk factors in clinical decision making remains limited. We propose to develop a combined clinical/genetic risk model suitable for accurately predicting an individual patient’s risk for developing IA within 60 days of admission for chemotherapy for acute myeloid leukemia/myelodysplastic syndromes (AML/MDS). We will develop a clinical risk model from a large data registry of 788 patients over 2,713 hospital admissions (2007-2020) for AML/MDS treatment that was associated with a 5.5% incidence of EORTC/MSG-defined probable or proven mold disease. Single nucleotide polymorphisms (SNPs) in 4 genes encoding fungal PRRs will be analyzed in parallel with relevant myeloid mutations from banked samples from next generation sequencing (NGS) analysis in a nested cohort of 234 patients (534 admissions) from 2017-2020. A polygenic risk score (PRS) will be developed to explore interactions with clinical risk factors and fungal PRR/myeloid SNPs to develop an absolute risk prediction model for supporting clinical decisions in the management of invasive mold disease in patients undergoing treatment of AML/MDS.</description>
+    </item>
+    
+  </channel>
+</rss>

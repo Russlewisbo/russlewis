@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invasive aspergillosis | Russell E. Lewis</title>
+    <link>https:russlewisid.com/tag/invasive-aspergillosis/</link>
+      <atom:link href="https:russlewisid.com/tag/invasive-aspergillosis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invasive aspergillosis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Russell Lewis 2022</copyright>
+    <image>
+      <url>https:russlewisid.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Invasive aspergillosis</title>
+      <link>https:russlewisid.com/tag/invasive-aspergillosis/</link>
+    </image>
+    
+    <item>
+      <title>Prognostic aspergillosis risk prediction models with leukemia sequencing</title>
+      <link>https:russlewisid.com/project/internal-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https:russlewisid.com/project/internal-project/</guid>
+      <description>&lt;br&gt;
+Polymorphisms in genes encoding fungal pattern recognition receptors (PRRs) of the innate immune system are associated with increased risk of invasive aspergillosis (IA), but incorporation genetic risk factors in clinical decision making remains limited. We propose to develop a combined clinical/genetic risk model suitable for accurately predicting an individual patient’s risk for developing IA within 60 days of admission for chemotherapy for acute myeloid leukemia/myelodysplastic syndromes (AML/MDS). We will develop a clinical risk model from a large data registry of 788 patients over 2,713 hospital admissions (2007-2020) for AML/MDS treatment that was associated with a 5.5% incidence of EORTC/MSG-defined probable or proven mold disease. Single nucleotide polymorphisms (SNPs) in 4 genes encoding fungal PRRs will be analyzed in parallel with relevant myeloid mutations from banked samples from next generation sequencing (NGS) analysis in a nested cohort of 234 patients (534 admissions) from 2017-2020. A polygenic risk score (PRS) will be developed to explore interactions with clinical risk factors and fungal PRR/myeloid SNPs to develop an absolute risk prediction model for supporting clinical decisions in the management of invasive mold disease in patients undergoing treatment of AML/MDS.</description>
+    </item>
+    
+  </channel>
+</rss>
