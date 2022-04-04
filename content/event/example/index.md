@@ -19,6 +19,5 @@ tags: [Antifungal, MICs, tissue penetration, PK/PD]
 title: "Beyond antifungal MICs: Fungicidal activity, biofilms and tissue distribution"
 url_slides: "https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide"
 ---
+
 Slides can be accessed: [here](https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide).
-
-

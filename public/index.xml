@@ -39,6 +39,14 @@
     </item>
     
     <item>
+      <title>Early low-dose computed tomography with pulmonary angiography to improve the early diagnosis of invasive mould disease in patients with haematological malignancies</title>
+      <link>https:russlewisid.com/publication/jofinfect2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https:russlewisid.com/publication/jofinfect2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs</title>
       <link>https:russlewisid.com/publication/journal-article/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -202,7 +210,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-325417896&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-987641325&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -212,7 +220,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-325417896&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-987641325&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
