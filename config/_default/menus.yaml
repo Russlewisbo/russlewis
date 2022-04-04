@@ -5,20 +5,20 @@
 
 main:
   - name: Who
-    url: 'about/'
+    url: '#about'
     weight: 10
   - name: Projects
-    url: 'projects/'
+    url: '#projects'
     weight: 30
   - name: Talks
-    url: 'events/'
+    url: '#events'
     weight: 40
   - name: Publications
-    url: 'publication/'
+    url: '#publication'
     weight: 50
   - name: CoursesYes
-    url: 'courses/'
+    url: '#courses'
     weight: 60
   - name: Contact
-    url: 'contact/'
+    url: '#contact'
     weight: 70
