@@ -10,19 +10,13 @@ featured: false
 image:
   caption: 'Image credit: [**ESCMID**](https://www.eccmid.org/)'
   focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/@Russlewis_BO
-  slides: https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide
 location: ALTICE ARENA, Rossio dos Olivais, Lisbon, Portugal
 projects:
 publishDate: "2022-04-07T00:00:00Z"
 slides: "https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide"
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ESCMID 2022 talk on fungicidal activity, biofilms and deep tissue activity
 tags: [Antifungal, MICs, tissue penetration, PK/PD]
-title: "Beyond antifungal MICs:Fungicidal activity, biofilms and tissue distribution"
+title: "Beyond antifungal MICs: Fungicidal activity, biofilms and tissue distribution"
 url_slides: "https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide"
 ---
 Slides can be accessed: [here](https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide).
