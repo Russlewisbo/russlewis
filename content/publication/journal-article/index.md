@@ -24,7 +24,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 summary: State of the art review of antifungal drug interactions with tageted chemotherapy
-tags: [PK/PD, drug interactions]
+tags: [antifungal triazoles, targeted therapies, hematological malignancies, PK/PD, drug interactions]
 title: Management of drug–drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs
 
 ---
