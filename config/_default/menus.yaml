@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '#publication'
     weight: 50
-  - name: CoursesYes
+  - name: Courses
     url: '#courses'
     weight: 60
   - name: Contact
