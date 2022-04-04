@@ -41,14 +41,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Russlewis_BO'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:russell.lewis72'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -142,8 +134,6 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
