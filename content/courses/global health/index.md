@@ -1,7 +1,7 @@
 ---
 date: 
 external_link: ""
-image: 
+image: featured.jpg
   caption: 
   focal_point: Smart
 summary: Courses taught at UNIBO
