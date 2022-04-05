@@ -4,12 +4,12 @@ external_link: ""
 image: 
   caption: 
   focal_point: Smart
-slides: 
 summary: Courses taught at UNIBO
 tags:
 - UNIBO
 - Global health
 - Teaching
+- Courses
 title: Teaching at the University of Bologna
 url_code: ""
 url_pdf: ""
