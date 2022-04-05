@@ -14,9 +14,9 @@
     
     <item>
       <title>Beyond antifungal MICs: Fungicidal activity, biofilms and tissue distribution</title>
-      <link>https:russlewisid.com/talk/beyond-antifungal-mics-fungicidal-activity-biofilms-and-tissue-distribution/</link>
+      <link>https:russlewisid.com/talks/example/</link>
       <pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate>
-      <guid>https:russlewisid.com/talk/beyond-antifungal-mics-fungicidal-activity-biofilms-and-tissue-distribution/</guid>
+      <guid>https:russlewisid.com/talks/example/</guid>
       <description>&lt;p&gt;Slides can be accessed: &lt;a href=&#34;https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -210,7 +210,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-957832146&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-297435681&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -220,7 +220,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-957832146&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-297435681&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

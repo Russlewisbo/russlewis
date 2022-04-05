@@ -80,7 +80,7 @@ show_related:
   courses: true
   project: true
   publication: true
-  event: true
+  talks: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -116,7 +116,7 @@ comments:
     courses: true
     project: true
     publication: true
-    event: true
+    talks: true
   disqus:
     shortname: ''
     show_count: true
